@@ -9,4 +9,4 @@ I am an intermediate Python developer and I am relatively new to programming. On
     Developing my Discord bot
 
 
-I have a goal of making as much open-source software possible, because **fuck writing your own code.**
+I have a goal of making as much open-source software possible.
