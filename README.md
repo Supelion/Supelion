@@ -15,5 +15,8 @@ I have a goal of making as much open-source software possible.
 <br/>
 <br/>
 <br/>
-[![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supelion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supelion&layout=compact&theme=cobalt)
+    <br/>
+    <br/>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=supelion&theme=cobalt)
 </div>
