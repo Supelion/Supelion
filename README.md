@@ -7,9 +7,7 @@ I am an intermediate Python developer and I am relatively new to programming. On
 
     I'm currently: 
     
-    Learning HTML
-    Learning JavaScript
-    Developing my website
+    Learning CSS
 
 
 I have a goal of making as much open-source software possible.
