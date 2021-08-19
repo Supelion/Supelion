@@ -3,10 +3,11 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 I'm **Supelion**, an aspiring developer. I love music!
 
-I am an intermediate Python developer and I am relatively new to programming (I started less 3 months ago!). On my github page, you'll find some of the projects I've worked on. Most of them are made in Python.
+I am an intermediate Python developer and I am relatively new to programming. On my github page, you'll find some of the projects I've worked on. Most of them are made in Python.
 
     I'm currently: 
     
+    Learning Rust
     Advancing my CSS Skills
 
 
