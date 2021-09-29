@@ -10,13 +10,11 @@ I am an intermediate Python developer and I am relatively new to programming. On
     Learning Java
 
 
-I have a goal of making as much open-source software possible.
     
 <br/>
     
 **You should visit [my website](http://supelion.crabdance.com) for more information about me ;)**
     
-<br/>
 <br/>
 <br/>
     
