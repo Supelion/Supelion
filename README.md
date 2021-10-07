@@ -22,8 +22,8 @@ Some Statistics:
     
 <br/>
     
-![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supelion&layout=compact&theme=cobalt)
+![My Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mutyyab&layout=compact&theme=cobalt)
     <br/>
     <br/>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=supelion&theme=cobalt)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=mutyyab&theme=cobalt)
 </div>
