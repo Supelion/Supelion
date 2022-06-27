@@ -12,7 +12,7 @@ I am a Python, and JavaScript developer and am relatively new to programming. On
     
 <br/>
     
-**You should visit [my website](https://mutyyab.github.io) for more information about me ;)**
+**You should visit [my website](https://mutyyab.netlify.app/) for more information about me ;)**
     
 <br/>
 <br/>
