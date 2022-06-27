@@ -6,7 +6,7 @@ I am a Python, and JavaScript developer and am relatively new to programming. On
 
     I'm currently: 
     
-    Deciding if I wanna learn C or C#
+    Lifing
 
 
     
