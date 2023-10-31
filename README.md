@@ -1,7 +1,5 @@
 <div align = "center">
 
-I'm **Mutayyab Tariq**, a hobby developer.
-
 I am a Python, and JavaScript developer and am relatively new to programming. On my GitHub page, you'll find some of the projects I've worked on.
 
     I'm currently: 
